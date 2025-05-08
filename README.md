@@ -1,2 +1,2 @@
 # management_product_fe
-Phần mềm quản lý dự án
+Phần mềm quản lý sản phẩm
